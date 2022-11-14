@@ -19,13 +19,13 @@ I am a 17 year old student, self-taught programmer, Linux enthusiast and Gamer. 
 <!-- <img align="left" alt="delphi" width="30px" style="padding-right:10px;" src="" /> -->
 <br />
 
-#
+---
 
 ### 📊 Stats
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kronikx&show_icons=true&theme=tokyonight)
 
-#
+---
 
 ### 🧰 Tools
 
@@ -33,9 +33,10 @@ I am a 17 year old student, self-taught programmer, Linux enthusiast and Gamer. 
 <!-- <img align="left" alt="sublime" width="30px" style="padding-right:10px;" src="" /> -->
 <img align="left" alt="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<br />
 
-# 
+--- 
 
 ### 👨‍💻 Current Project(s)
 
-[![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Cleopatra)](https://github.com/Kronikx/Cleopatra)
+[![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Cleopatra&show_owner=true&theme=tokyonight )](https://github.com/Kronikx/Cleopatra)
