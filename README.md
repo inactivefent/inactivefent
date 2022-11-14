@@ -2,7 +2,7 @@
 
 I am a 17 year old student, self-taught programmer, Linux enthusiast and Gamer. My current aim to is to further better my programmer skill's, as I work towards being a Full Stack Developer. Althought my current aim is Full Stack Development, I am also interested in AI. I'm currently working on a Discord bot, that integrates Dall-e mini and openAI.
 
-## 🧰 Languages
+## 💻 Languages
 
 <img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -17,7 +17,7 @@ I am a 17 year old student, self-taught programmer, Linux enthusiast and Gamer. 
 <!-- <img align="left" alt="delphi" width="30px" style="padding-right:10px;" src="" /> -->
 <br />
 
-## Tools
+## 🧰 Tools
 
 <img align="left" alt="vsc" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <!-- <img align="left" alt="sublime" width="30px" style="padding-right:10px;" src="" /> -->
