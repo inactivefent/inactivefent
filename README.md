@@ -41,3 +41,5 @@ I am a 17 year old student, self-taught programmer, Linux enthusiast and Gamer. 
 ### 👨‍💻 Current Project(s)
 
 [![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Cleopatra&show_owner=true&theme=tokyonight )](https://github.com/Kronikx/Cleopatra)
+[![Discord Bot 2](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Cypher&show_owner=true&theme=tokyonight )](https://github.com/Kronikx/Cypher)
+[![Active Developer Badge](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Active-Developer-Badge&show_owner=true&theme=tokyonight )](https://github.com/Kronikx/Active-Developer-Badge)
