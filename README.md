@@ -1,6 +1,6 @@
 # 🐱‍👤 Josh 
 
-I am a 17 year old student, self-taught programmer, Linux enthusiast and Gamer. My current aim is to further better my programmer skills, as I work towards being a Full Stack Developer. Althought my current aim is Full Stack Development, I am also interested in AI. I'm currently working on a Discord bot, that integrates Dall-e mini and openAI.
+I am a 17 year old student, self-taught programmer, Linux enthusiast and Gamer. My current aim is to further better my programmer skills, as I work towards being a Full Stack Developer. Althought my current aim is Full Stack Development, I am also interested in AI. 
 
 ---
 
