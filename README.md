@@ -31,14 +31,14 @@ I am a 17 year old student, self-taught programmer, Linux enthusiast and Gamer. 
 ### 🧰 Tools
 
 <img align="left" alt="vsc" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<!-- <img align="left" alt="sublime" width="30px" style="padding-right:10px;" src="" /> -->
+<img align="left" alt="sublime" width="30px" style="padding-right:10px;" src="" />
 <img align="left" alt="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <br />
 
 --- 
 
-<!-- ### 👨‍💻 Current Project(s)
+### 👨‍💻 Current Project(s)
 
-[![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Cleopatra&show_owner=true&theme=tokyonight )](https://github.com/Kronikx/Cleopatra) 
-<!-- [![Discord Bot 2](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Cypher&show_owner=true&theme=tokyonight )](https://github.com/Kronikx/Cypher) -->
+[![Pixel-Runner](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Pixel-Runner&show_owner=true&theme=tokyonight )](https://github.com/Kronikx/Pixel-Runner)
+[![Radical](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Cleopatra&show_owner=true&theme=tokyonight )](https://github.com/Kronikx/Radical) 
