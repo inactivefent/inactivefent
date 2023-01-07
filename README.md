@@ -41,5 +41,4 @@ I am a 17 year old student, self-taught programmer, Linux enthusiast and Gamer. 
 
 ### 👨‍💻 Current Project(s)
 
-[![Pixel-Runner](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Pixel-Runner&show_owner=true&theme=tokyonight )](https://github.com/Kronikx/Pixel-Runner)
-[![Radical](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Cleopatra&show_owner=true&theme=tokyonight )](https://github.com/Kronikx/Radical) 
+[![Pixel-Runner](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Pixel-Runner&show_owner=true&theme=tokyonight )](https://github.com/Kronikx/Pixel-Runner) [![Radical](https://github-readme-stats.vercel.app/api/pin/?username=Kronikx&repo=Cleopatra&show_owner=true&theme=tokyonight )](https://github.com/Kronikx/Radical) 
