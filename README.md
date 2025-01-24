@@ -1,55 +1,38 @@
-<p align="center" style="font-size: 40px;"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/loveoxyz/count.svg" />
+<h1 align="center">Hey, I'm Josh.</h1>
+<h3 align="center">Passionate Python Developer and Linux Enthusiast.</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=inactivefent&color=ff64da" alt="inactivefent" />
 </p>
 
----
+<!-- Separator -->
+<p align='center'><img src='./assets/seperator.png' alt='Separator'/></p>
 
-<p align="center" style="font-size: 40px;">
-  Josh Maytham<br>
+<h3 align='left'>Summary:</h3>
+<p align='left'>
+  I am a self-taught programmer with over six years of experience in Python development. Despite starting a web development course, I found my true passion in Python programming and have been dedicated to mastering the language ever since. I have become an avid linux enthusiast and would like to broaden my knowledge on cyber security.
 </p>
 
-<p align="center" style="width: 50%; margin: 0 auto;">
-I am a self-taught programmer with over three years of experience in Python development. Despite starting a web development course, I found my true passion in Python programming and have been dedicated to mastering the language ever since. As a high-demand language, I have developed various projects and applications using Python, showcasing my proficiency in the language. At just 17 years old, I am excited to continue exploring new technologies and expanding my skills as a developer.
-</p>
+<!-- Separator -->
+<p align='center'><img src='./assets/seperator.png' alt='Separator'/></p>
 
----
-
-<p align="center" style="font-size: 40px;">
-    Statistics<br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=loveoxyz&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveoxyz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center" style="font-size: 40px;">
-    Technologies<br>
-    <img height="30" alt="html" src="https://raw.githubusercontent.com/loveoxyz/loveoxyz/master/assets/html-5.png">
-    <img height="30" alt="css" src="https://raw.githubusercontent.com/loveoxyz/loveoxyz/master/assets/css-3.png">
-    <img height="30" alt="javascript" src="https://raw.githubusercontent.com/loveoxyz/loveoxyz/master/assets/js.png">
-    <img height="30" alt="python" src="https://raw.githubusercontent.com/loveoxyz/loveoxyz/master/assets/python.png">
-    <img height="30" alt="sql" src="https://raw.githubusercontent.com/loveoxyz/loveoxyz/master/assets/sql.png">
-    <img height="30" alt="github" src="https://raw.githubusercontent.com/loveoxyz/loveoxyz/master/assets/github.png">
-</p>
-
----
-
-<p align="center" style="font-size: 35px;">
-  Top Repos<br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loveoxyz&repo=Portfolio&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loveoxyz&repo=Radical&theme=tokyonight" />
-</p>
-
-<br />
-<br />
-
-<a href="https://discord.com/users/168376879479390208">
-  <img align="right" alt="Josh | Discord" width="21px" src="https://raw.githubusercontent.com/loveoxyz/loveoxyz/master/assets/discord.png" />
+<h3 align='left'>Languages and Tools:</h3>
+<a href='https://github.com/inactivefent' target='blank'>
+  <img src='https://skillicons.dev/icons?i=py,fastapi,flask,django,react,nodejs,pycharm,sublime,vscode,git,github,gitlab,linux,ubuntu,arch,bash,windows,cloudflare,vercel,supabase,postgres,discord,bots,gmail,md' alt='language and tools' align='center' />
 </a>
-<a href="https://twitter.com/kantlietoya">
-  <img align="right" alt="Josh | Twitter" width="21px" src="https://raw.githubusercontent.com/loveoxyz/loveoxyz/master/assets/twitter.png" />
-</a>
-<a href="https://instagram.com/oxyfien">
-  <img align="right" alt="Josh | Instagram" width="21px" src="https://raw.githubusercontent.com/loveoxyz/loveoxyz/master/assets/instagram.png" />
+
+<!-- Separator -->
+<p align='center'><img src='./assets/seperator.png' alt='Separator'/></p>
+
+<h3 align='left'>Statistics:</h3>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=inactivefent&show_icons=true&theme=jolly&hide_border=true" alt="Anurag's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inactivefent&layout=compact&theme=jolly&hide_border=true" />
+</p>
+
+<!-- Separator -->
+<p align='center'><img src='./assets/seperator.png' alt='Separator'/></p>
+
+<h3 align='left'>Contact:</h3>
+<a href='https://discord.com/users/896075048228634655' target='blank'>
+  <img src='https://skillicons.dev/icons?i=discord' alt='discord' align='left' />
 </a>
